@@ -1,0 +1,11 @@
+## Interface: 40000
+## Author: Stalls
+## Credits to: Tukz, Caith, Caellian, Shestak, Haste, Tekkub, Alza, Roth, P3lim, Tulla, Hungtar, hankthetank, Ishtara and others...
+## Version: 0.01
+## Title: |cffC495DDGeekUI|r
+## Notes: Powered by GeekUI -- A World of Warcraft UI
+## SavedVariables: GeekUIData
+## SavedVariablesPerCharacter: GeekUIInit
+## X-oUF: oUF
+
+Geekui.xml
