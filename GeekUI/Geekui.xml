@@ -2,4 +2,6 @@
 	<Script file="local\english.lua"/>
 	<Script file="scripts\commands.lua"/>
 	<Script file="scripts\variables.lua"/>
+	
+	<Include file="libs\oUF\oUF.xml"/>
 </Ui>
