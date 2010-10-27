@@ -1,0 +1,15 @@
+
+Disclaimer: This software is provided as-is without any warranty,
+implied to otherwise, as to it's usefulness for a specific purpose or
+that it will not cause harm.
+
+All rights are reserved to the code author(s) unless explicitly shared.
+This software may be freely distributed following that these criteria
+are met:
+1. This license in its unaltered entirety must accompany the software
+2. The software must be original and unaltered. It may however have a
+number of patches or additional plugins distributed with it which alter
+or modify it at compile or run time if the end user wishes to apply or
+activate them.
+3. No fee may be charged.
+4. Credit and copyright notices remain in place and properly attributed.
